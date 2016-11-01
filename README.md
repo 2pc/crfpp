@@ -11,3 +11,6 @@ cd crfpp
 make 
 sudo make install 
 ```
+### referece 
+
+[CRF++中文分词使用指南](http://blog.csdn.net/marising/article/details/5769653#)
